@@ -36,3 +36,7 @@ The heatmap indicates that **'Oldpeak'** (ST depression induced by exercise rela
 ## Dataset Structure
 The dataset includes 918 observations with 12 clinical features such as:
 - Age, Sex, ChestPainType, RestingBP, Cholesterol, MaxHR, and HeartDisease (Target).
+
+## Data Source
+The dataset used for this project is the **Heart Failure Prediction Dataset**, sourced from **Kaggle**.  
+You can find the original data here: [Kaggle Dataset Link](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
